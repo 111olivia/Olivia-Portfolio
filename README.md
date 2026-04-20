@@ -17,16 +17,18 @@ Biohealth & Music Major, Loyola University Maryland
 #### Personality Test
  - This is a 10 question personality test that assesses intrinsic thought, outward communication, and personal preferences.
 I built it using GitHub and PyCharm under the guidance of my Computer Science professor in the Spring. 
- - ![img.png](img.png)
+![Screenshot of the code for the results of the Personality Test](img.png)
+[Link to Personality Test Code](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-111olivia.git)
  - This project sought to discern different personality types and define each accordingly. My biggest challenge in creating it was assigning each multiple choice answer a number and summing them up to calculate a total score. 
 I achieved this goal smoothly and would love to work on expanding it in the future. 
 ***
 #### Faux Business Dashboard
  - Expanding on data aggregation and analysis of an imaginary business, this Excel sheet combines information about inventory, profit margins, business loans, and visual data. 
  - ![img_1.png](img_1.png)
- - This interative sheet works to simplify business data and calculate monetary values. I used different formatting and calculation tools in Excel. The most difficult thing was building the Data Validation List. I worked through minimal issues quickly and would love to expand 
+ - This interative sheet works to simplify business data and calculate monetary values. I used different formatting and calculation tools in Excel. The most difficult thing was building the Data Validation List. I worked through minimal issues quickly and would love to expand on this in an office/occupational setting.
 ***
-#### Project 3 Title
- - Project 3 Summary
+#### PowerPoint Presentation
+ - This was a self-designed, 10-minute video presenting a PowerPoint on the modules regarding 
+the previous four modules on email, hardware and software, Outlook, and cloud storage. 
  - [insert project 3 screenshot here]
  - Project 3 Report
