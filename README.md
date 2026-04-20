@@ -24,7 +24,7 @@ I achieved this goal smoothly and would love to work on expanding it in the futu
 ***
 #### Faux Business Dashboard
  - Expanding on data aggregation and analysis of an imaginary business, this Excel sheet combines information about inventory, profit margins, business loans, and visual data. 
- - ![img_1.png](img_1.png)
+
  - This interative sheet works to simplify business data and calculate monetary values. I used different formatting and calculation tools in Excel. The most difficult thing was building the Data Validation List. I worked through minimal issues quickly and would love to expand on this in an office/occupational setting.
 ***
 #### PowerPoint Presentation
