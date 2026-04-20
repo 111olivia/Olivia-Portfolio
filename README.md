@@ -1,6 +1,7 @@
 # CS105/6/7/8 Portfolio
 # Olivia Michalik
 ## Portfolio
+![Profile Picture](img_1.png)
 Contact Info: osmichalik@loyola.edu
 ### About Me 
 Hi! My name is Olivia Michalik, and I am an aspiring Health Policy worker and Musician.
