@@ -10,7 +10,7 @@ My ever-growing skill set, commitment to accessibility, and passion for justice 
 
 ### Education 
 Biohealth & Music Major, Loyola University Maryland
-***
+
 ### Projects
 
 #### Personality Test
@@ -20,13 +20,13 @@ I built it using GitHub and PyCharm under the guidance of my Computer Science pr
 [Link to Personality Test Code](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-111olivia.git)
  - This project sought to discern different personality types and define each accordingly. My biggest challenge in creating it was assigning each multiple choice answer a number and summing them up to calculate a total score. 
 I achieved this goal smoothly and would love to work on expanding it in the future. 
-***
+
 #### Faux Business Dashboard
  - Expanding on data aggregation and analysis of an imaginary business, this Excel sheet combines information about inventory, profit margins, business loans, and visual data. 
 ![Screenshot of Business Dashboard on Excel](images/img_1.png)
 [Link to Business Dashboard](https://studentsloyola-my.sharepoint.com/:x:/g/personal/osmichalik_loyola_edu/IQAu74cT09TQR4BHy2qqh7LUAXr6e_ZA9Vz-cYKqB6SsYVA?e=qe0rPq)
  - This interative sheet works to simplify business data and calculate monetary values. I used different formatting and calculation tools in Excel. The most difficult thing was building the Data Validation List. I worked through minimal issues quickly and would love to expand on this in an office/occupational setting.
-***
+
 #### PowerPoint Presentation
  - This was a self-designed, 10-minute video presenting a PowerPoint on the modules regarding 
 the previous four modules on email, hardware and software, Outlook, and cloud storage. 
