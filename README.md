@@ -1,4 +1,3 @@
-# CS105/6/7/8 Portfolio
 # Olivia Michalik
 ## Portfolio
 Contact Info: osmichalik@loyola.edu
@@ -24,11 +23,14 @@ I achieved this goal smoothly and would love to work on expanding it in the futu
 ***
 #### Faux Business Dashboard
  - Expanding on data aggregation and analysis of an imaginary business, this Excel sheet combines information about inventory, profit margins, business loans, and visual data. 
-
+![Screenshot of Business Dashboard on Excel](images/img_1.png)
+[Link to Business Dashboard](https://studentsloyola-my.sharepoint.com/:x:/g/personal/osmichalik_loyola_edu/IQAu74cT09TQR4BHy2qqh7LUAXr6e_ZA9Vz-cYKqB6SsYVA?e=qe0rPq)
  - This interative sheet works to simplify business data and calculate monetary values. I used different formatting and calculation tools in Excel. The most difficult thing was building the Data Validation List. I worked through minimal issues quickly and would love to expand on this in an office/occupational setting.
 ***
 #### PowerPoint Presentation
  - This was a self-designed, 10-minute video presenting a PowerPoint on the modules regarding 
 the previous four modules on email, hardware and software, Outlook, and cloud storage. 
- - [insert project 3 screenshot here]
- - Project 3 Report
+![Screenshot of Video Presentation](img_2.png)
+[Link to Video Presentation](https://somup.com/cOVte5Sd3D)
+ - This presentation reviews class material and curriculum in an accessible manner. I used ScreenPal to record and PowerPoint for the presentation.
+I did not face any difficulties here and found it easy to use. This is a beneficial tool for any kind of presentation.
